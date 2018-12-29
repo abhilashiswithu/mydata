@@ -1,3 +1,3 @@
 PHP Sample Project
 
-Social Media
+Social Media App
